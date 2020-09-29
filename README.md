@@ -1,4 +1,4 @@
-# Pathfinder
+# pathfinder
 'A Star', A Pathfinding Algorithm Visualized in Python
 
 Steps:
