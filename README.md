@@ -11,4 +11,3 @@ Steps:
 
 Notes:
 - Right click a filled cell at any point to clear its properties.
-- The algorithm was provided as a code along project by TechWithTim. UI and other features were implimented seperately.
